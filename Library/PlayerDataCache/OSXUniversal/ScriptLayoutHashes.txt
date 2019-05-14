@@ -1,10 +1,12 @@
 OSXUniversal
 PlayerPath?
-/Users/kenward/Desktop/game.app
+/Users/kenward/Desktop/unfeathered2-mac.app
 SceneListBegin?
 Assets/Scenes/winner.unity
 Assets/Scenes/SampleScene.unity
 Assets/Scenes/ded.unity
+Assets/Scenes/tutorial level.unity
+Assets/Scenes/final deal.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -165,3 +167,5 @@ d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.SpikeScript
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.spike2
